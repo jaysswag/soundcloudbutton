@@ -1,2 +1,2 @@
 # soundcloudbutton
--- Tampermonkey script, still working beast atm
+/tampermonkey script, still working beast atm
